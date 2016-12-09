@@ -1,0 +1,22 @@
+{
+  "name": "gulp-typescript-mock-interface-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "techmatt101 <matt@kempmail.co.uk>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techmatt101/gulp-typescript-mock-interface-generator"
+  },
+  "keywords": [
+    "typescript",
+    "interfaces",
+    "mock",
+    "testing"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1",
+    "typescript-mock-interface-generator": "^1.2.0"
+  }
+}

@@ -1,0 +1,6 @@
+*.log
+*.lock
+.npmignore
+.gitignore
+node_modules
+test
